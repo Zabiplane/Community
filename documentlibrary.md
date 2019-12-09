@@ -17,7 +17,8 @@ At the moment the documents are listed in no particular order.
 
 * [Original vision deck](https://docs.google.com/presentation/d/1i-Wl18n9TNpM_RaLOxnMOoAmr2RkyyrFq0zKJA6gpC8/edit?usp=sharing) (presentation)
 * [Comparative Matrix](https://docs.google.com/document/d/1ZQjKaU0o_8dsxjn1Ug1B_UzuzyS-svrRYYK3BXdUjfw/edit)
-* [Project naming options](https://docs.google.com/spreadsheets/d/1e3exzmap9SC6aWJJUZNk0NyvMyb0YdwhiZHAIgouKEo/edit#gid=1049139088)
+* [ebplane naming options](https://docs.google.com/document/d/1gMxv-mumlOSzL60jyCEbz97arP48qeg2lvI_YTcmZC0/edit) (document)
+* [Project naming options](https://docs.google.com/spreadsheets/d/1e3exzmap9SC6aWJJUZNk0NyvMyb0YdwhiZHAIgouKEo/edit#gid=1049139088) (spreadsheet)
 * [Potential technical components](https://docs.google.com/document/d/1S7pJZUGMOzRykJzyAOuEPVhUMKjiuSsMBxJiKouf3Aw/edit#heading=h.i8mhtcz6pa0u)
 * [MVP & Technical Requirements Document](https://docs.google.com/document/d/16YggLpAyYUxjf4PcwxObkRPEh3rzRuqjS8rRv0O0ThA/edit#heading=h.rr1fagr15anh)
 * [DEPRECATED] [Primary use case notes](https://docs.google.com/document/d/184fQxoOfSyAClc5NWi9lzbPkSTJH4nVrTkN2FDBlW94/edit)
