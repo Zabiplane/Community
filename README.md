@@ -18,16 +18,16 @@ The [mailing list archives](https://zabiplane.groups.io/g/dev/topics) are open t
 
 There are several working groups that focus on portions of the project:
 
-* [R&D](TBD)
-* [Use Case](TBD)
-* [Hardware Acceleration](TBD)
-* [Marketing and Outreach](TBD)
+* [R&D](./workinggroups/rdwg.md)
+* [Use Case](./workinggroups/ucwg.md)
+* [Hardware Acceleration](./workinggroups/hawg.md)
+* [Marketing and Outreach](./workinggroups/mowg.md)
 
 All working group meetings are listed on the [Calendar](https://zabiplane.groups.io/g/dev/calendar).
 
 ## Document Library
 
-During the initial stages of the project (when it was using the working title of `ebplane`), the community created a lot of documents. This page collects all of those documents in a single place for reference: [Document Library](TBD)
+During the initial stages of the project (when it was using the working title of `ebplane`), the community created a lot of documents. This page collects all of those documents in a single place for reference: [Document Library](./documentlibrary.md)
 
 ## License
 
