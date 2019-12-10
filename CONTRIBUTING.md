@@ -40,3 +40,7 @@ All tasks, questions, and bugs related to the Zabiplane community are tracked in
 * Have a suggestion for a change in Zabiplane community governance? Open an issue.
 
 Please remember that opening an issue doesn't mean you'll necessarily get that repo access (for instance), but it does allow us to track the work and the consolidate the conversation around it.
+
+### Side note: Project history
+
+If you're interested, we maintain a [project history](./history.md) to give new community members some background and context to help them get going.
