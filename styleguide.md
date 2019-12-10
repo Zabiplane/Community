@@ -2,6 +2,10 @@
 
 This styleguide is for this repo only, not for any other Zabiplane repos.
 
+## Project name
+
+It's `Zabiplane` with a lowercase p. It's not camelcase `ZabiPlane`. The latter is just asking for people to spell it wrong, plus it's harder to type, so we don't use it.
+
 ## Filenames
 
 * Aside from certain special files (LICENSE, Code-of-Conduct, etc), all directories and filenames are _lowercase_ with no separators (-, _, space, etc.)
