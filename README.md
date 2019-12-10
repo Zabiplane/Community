@@ -8,6 +8,10 @@ In order to address the issues with today’s SDN dataplanes (market fragmentati
 
 All activities for the Zabiplane project—online or offline—are covered by the [Code of Conduct](./Code-of-Conduct.md). All participants in the project agree to operate and behave according to this code. If you have any concerns about any sort of behaviour you've experienced or witnessed around the Zabiplane community, or if you have any questions related to the Code of Conduct, please email the private `coc@zabiplane.groups.io` mailing list.
 
+## Join the Community
+
+Please see the [CONTRIBUTING](./CONTRIBUTING.md) file for all sorts of helpful information about joining the Zabiplane community.
+
 ## Mailing List
 
 All conversation about the project occurs on our Groups.io mailing list. [Subscribe here](https://zabiplane.groups.io/g/dev).
