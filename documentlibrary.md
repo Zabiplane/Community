@@ -2,7 +2,7 @@
 
 During the initial stages of the project (when it was using the working title of `ebplane`), the community created a lot of documents. This page collects all of those documents in a single place for reference.
 
-**NOTA BENE:** These are _not_ project user/technical docs. They're docs that are being used in the initial planning and designing for the project. User/technical docs will be under a separate repo (once some exist).
+**_NOTA BENE_:** These are _not_ project user/technical docs. They're docs that are being used in the initial planning and designing for the project. User/technical docs will be under a separate repo (once some exist).
 
 At the moment the documents are listed in no particular order.
 
