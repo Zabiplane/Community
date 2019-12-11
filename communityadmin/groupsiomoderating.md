@@ -31,3 +31,5 @@ Yup, it's that easy.
 * VM Brasseur
 * Carlo Contavalli
 * Gary Greenberg
+* Eelco Chaudron
+* Weqaar Janjua
