@@ -23,3 +23,4 @@ At the moment the documents are listed in no particular order.
 * [MVP & Technical Requirements Document](https://docs.google.com/document/d/16YggLpAyYUxjf4PcwxObkRPEh3rzRuqjS8rRv0O0ThA/edit#heading=h.rr1fagr15anh)
 * [DEPRECATED] [Primary use case notes](https://docs.google.com/document/d/184fQxoOfSyAClc5NWi9lzbPkSTJH4nVrTkN2FDBlW94/edit)
 * [Architecture and features of modern dataplanes](https://docs.google.com/presentation/d/1ATVX4tE0KWP2CHtcoF2ajvR-KlGnEKPeApCt3ZrLV_Y/edit) (presentation)
+* [ZabiPlane Comms/rollout plan](https://docs.google.com/document/d/1NfGzrPOGzLSDb57HGTqJU5oJzogmY85jQQr6G-8QbF4/edit?usp=sharing)
