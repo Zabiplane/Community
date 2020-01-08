@@ -9,7 +9,7 @@ At the moment the documents are listed in no particular order.
 ## Meeting Notes and Reports
 
 * [Report from the Inaugural Dev Summit](https://docs.google.com/document/d/1I7Qo_eQdntJWyVqbm7WlIK8-c0yWHmxUDd2TJnm00KQ/edit#heading=h.akmokdlo17on)
-* [Agenda and notes from 2019-12-04 virtual conference](https://docs.google.com/document/d/10BWKlq1luJ0T2epb30GUjW02Kj2kvWftEqoechoUbLM/edit)
+* [Virtual Conference agenda and notes](https://docs.google.com/document/d/10BWKlq1luJ0T2epb30GUjW02Kj2kvWftEqoechoUbLM/edit)
 * [Use Case Working Group meeting notes](https://docs.google.com/document/d/1kPsduDCU-xlk0T_bi8DZV_Hs5hHGIFy1pRVVXQIrbwY/edit#heading=h.21jmh2p1p53m)
 * [R&D Working Group meeting notes](https://docs.google.com/document/d/1XNlAbATKKpNRsRKG91D_XccT9biaokGJ91S7T1C3u00/edit#heading=h.uut46h5vjzhv)
 
