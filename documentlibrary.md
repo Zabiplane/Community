@@ -24,4 +24,4 @@ At the moment the documents are listed in no particular order.
 * [DEPRECATED] [Primary use case notes](https://docs.google.com/document/d/184fQxoOfSyAClc5NWi9lzbPkSTJH4nVrTkN2FDBlW94/edit)
 * [Architecture and features of modern dataplanes](https://docs.google.com/presentation/d/1ATVX4tE0KWP2CHtcoF2ajvR-KlGnEKPeApCt3ZrLV_Y/edit) (presentation)
 * [Zabiplane Comms/rollout plan](https://docs.google.com/document/d/1NfGzrPOGzLSDb57HGTqJU5oJzogmY85jQQr6G-8QbF4/edit?usp=sharing)
-* [Zabiplane milestones/roadmap](https://docs.google.com/presentation/d/1n8fZQxXjnoM-_8KaC4oIUUDEsUZviAdGah1DTBoQtXk/edit?ts=5e15e949#slide=id.p1) (presentation)
+* [Positioning Document](https://docs.google.com/document/d/1G8KDO74NO60xC2Ko9-ahpIK3OhsuV0FydXVi4KvHBDc/edit#heading=h.i8mhtcz6pa0u)
